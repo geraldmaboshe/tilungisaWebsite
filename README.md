@@ -1,5 +1,5 @@
-# Gerald Maboshe
-Welcome to my portfolio
+# Tilungisa Auto
+Welcome to Tilungisa Auto company portfolio
 <!-- ### How to run 
 clone the repository
 ```
